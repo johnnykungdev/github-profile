@@ -1,1 +1,3 @@
-Hi I'm currently a sofeware developer.
+# Johnny (Cheyi) Kung
+### Summary
+I'm a software developer.
